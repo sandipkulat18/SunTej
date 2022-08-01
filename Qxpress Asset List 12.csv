@@ -13,10 +13,8 @@ Sl.No.,Asset Tag,Serial,Model,Category,Status,Emp. ID,Checked Out To,Division,In
 12,QXP-IN-DSK-037,96WYF73,Dell Optiplex 3070MT,Desktop,Issued,,,DPC Opration Group,RTPL-2021-359,8 GB,Core i3 Gen 9,Windows 10 Pro,Mar-21,512 GB SSD,14-Dec-20,16-Mar-24,,,,
 13,QXP-IN-DSK-038,C7WYF73,Dell Optiplex 3070MT,Desktop,Issued,,InWord,DPC Opration Group,RTPL-2021-359,8 GB,Core i3 Gen 9,Windows 10 Pro,Mar-21,512 GB SSD,14-Dec-20,16-Mar-24,,,,
 14,QXP-IN-DSK-039,36WYF73,Dell Optiplex 3070MT,Desktop,Issued,,Processing table 2,DPC Opration Group,RTPL-2021-359,8 GB,Core i3 Gen 9,Windows 10 Pro,Mar-21,512 GB SSD,14-Dec-20,16-Mar-24,,,,
-15,QXP-IN-DSK-040,1N111803B9,HP 280 G6 MT,Desktop,In Stock, ,p, ,TI/NCSP2122/299,8GB,Core i3 Gen 10,windows 10 Pro, ,512 GB SSD,29-10-2021,28-10-2024, , , , 
+15,QXP-IN-DSK-040,1N111803B9,HP 280 G6 MT,Desktop,In Stock,Â ,p,Â ,TI/NCSP2122/299,8GB,Core i3 Gen 10,windows 10 Pro,Â ,512 GB SSD,29-10-2021,28-10-2024,Â ,Â ,Â ,Â 
 16,QXP-IN-DSK-041,1N1118039H,HP 280 G6 MT,Desktop,In Stock,,,,TI/NCSP2122/299,8GB,Core i3 Gen 10,windows 10 Pro,,512 GB SSD,29-10-2021,28-10-2024,,,,
 17,QXP-IN-DSK-042,1N111803B5,HP 280 G6 MT,Desktop,In Stock,,,,TI/NCSP2122/299,8GB,Core i3 Gen 10,windows 10 Pro,,512 GB SSD,29-10-2021,28-10-2024,,,,
 18,QXP-IN-DSK-043,1N11180399,HP 280 G6 MT,Desktop,In Stock,,,,TI/NCSP2122/299,8GB,Core i3 Gen 10,windows 10 Pro,,512 GB SSD,29-10-2021,28-10-2024,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,,,
+12,QXP-IN-DSK-039,36WYF73,Dell Optiplex 3070MT,Desktop,Issued,,Processing table 2,DPC Opration Group,RTPL-2021-359,8 GB,Core i3 Gen 9,Windows 10 Pro,Ma
