@@ -6,8 +6,8 @@
 
 first_number= input("enter first number:")
 second_number =input("enter second number :")
-first = int(first_number)
-second= int(second_number)
+first = float(first_number)
+second= float(second_number)
 print("---(-,+,/,*,%)-------")
 operator= input("enter operator :")
       
