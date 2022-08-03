@@ -10,7 +10,7 @@ first = float(first_number)
 second= float(second_number)
 print("---(-,+,/,*,%)-------")
 operator= input("enter operator :")
-      
+
 if operator == "+":
     print(first + second)
 elif operator == "-" :
@@ -23,7 +23,7 @@ elif operator == "%" :
     print(first % second)
 else:
     print("invalid operation")
-                   
+
 
 
 # In[ ]:
