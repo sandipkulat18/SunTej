@@ -1,8 +1,11 @@
 
 
-xyz= [[1,2,30],[2,3,4],[3,4,5],[4,5,6]]
+salary = (10000,15000,20000)
 
-print(xyz[3][0:2])
+salary = list(salary)
 
+salary.append(25000)
 
+salary = tuple(salary)
 
+print (salary)
